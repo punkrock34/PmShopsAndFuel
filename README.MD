@@ -1,11 +1,11 @@
-<hr><br><br>
+<br><br><hr>
 <h1>Dependencies</h1><br>
 <h2><a href = "https://forum.cfx.re/t/release-pd-safe-standalone-lua-safecracking-minigame/1231799"><strong>safecraking-minigame</strong></a></h2><br>
 <h2><a href = "https://github.com/HalCroves/mythic_progbar"><strong>mythic_progbar</strong></a></h2><br>
 <h2><a href = "https://github.com/JayMontana36/mythic_notify"><strong>mythic_progbar</strong></a></h2><br>
 <h2><a href = "https://github.com/esx-framework/es_extended"><strong>es_extended</strong></a></h2><br>
 
-<hr><br><br>
+<br><br><hr>
 
 <h1>!!! IMPORTANT !!!</h1>
 <p>
@@ -15,7 +15,7 @@
 4. No support is offered for this script anymore if you wish to use it you have to configure it yourself
 </p>
 
-<hr><br><br>
+<br><br><hr>
 
 <h1>Instructions</h1>
 <ol>
