@@ -10,10 +10,14 @@
 <h1>!!! IMPORTANT !!!</h1>
 <p>
 1. Make sure you have the following tables inside your database owned_shops/owned_shops_storage/shops/items/fuel_stations/deliverymissionitems
-2. Make sure the items in the shop also exist in your server else the script will give an error out when moving an invalid item from storage or when a player buys it.
+<br>
+2. Make sure the items in the shop also exist in your server else the script will give an error out when moving an invalid item from storage or when a player buys it.<br>
 3. Make sure you have the items in Config.Items and also in Config.Images as well if the image of the item doesn't exist it is replaced by an image of a box.
+<br>
 4. No support is offered for this script anymore if you wish to use it you have to configure it yourself.
+<br>
 5. If you find any bugs please flag them in this repository and I might look at them but won't bother to if you don't provide a way to recreate the bug.
+<br>
 </p>
 
 <br><br><hr>
